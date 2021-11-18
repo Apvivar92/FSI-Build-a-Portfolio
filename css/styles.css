@@ -1,0 +1,27 @@
+* {
+  background-color: rgb(34, 129, 236);
+}
+
+h1 {
+  text-align: center;
+}
+
+#profile {
+  height: 200px;
+  width: 400px;
+}
+
+#profile{
+  border: 2px solid rgb(233, 100, 100);
+  border-radius: 100px;
+}
+
+.list-item {
+  font-family:sans-serif; 
+}
+
+.center-this{
+  text-align: center;
+}
+
+body {cursor: pointer;}
